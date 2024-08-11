@@ -1,5 +1,5 @@
 # Marketing-Mass-Mailing-Google-Apps-Script
-This script along with google sheets can be used for personalised marketing or mass mailing.
+This script within the google sheets can be used for personalised marketing or mass mailing.
 
 Steps to use this script:
 1. Download and save the google sheet in your google drive.
