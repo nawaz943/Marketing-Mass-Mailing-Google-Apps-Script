@@ -1,6 +1,8 @@
 # Marketing-Mass-Mailing-Google-Apps-Script
 This script within the google sheets can be used for personalised marketing or mass mailing.
 
+https://drive.google.com/drive/folders/1cwbdUW2Cm18R6Sb_jfApdTyWzzweYBcj?usp=sharing
+
 Steps to use this script:
 1. Download and save the google sheet in your google drive.
 2. Open the sheet, Click on Extensions, Click on Apps Script.
