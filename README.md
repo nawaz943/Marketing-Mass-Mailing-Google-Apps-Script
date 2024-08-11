@@ -19,4 +19,4 @@ Steps to use this script:
 13. allow permission.
 14. Done!
 
-If this is difficult for you to understand, first test run it on your personal email then follow point 3 and 4 then test run again to understand what changes cause a change in emails. 
+If this is difficult for you to understand, first test run it on your personal email then follow point 3 and 4 then test run again to understand what changes cause changes in emails. 
